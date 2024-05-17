@@ -10,3 +10,8 @@
 
 -sliding window
 -two pointers
+
+#algorithms
+
+-dp
+-sorting
