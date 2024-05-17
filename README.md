@@ -10,3 +10,9 @@
 
 -sliding window
 -two pointers
+
+#development
+
+-html
+-css
+-javascript
